@@ -169,12 +169,13 @@ int main()
 ```
 ## Output:
 ```
-Enter the keyword: swa   Swathi
+Enter the keyword: Swathi
 Enter the plain text: monarchy
 Cipher text: GRPSPETZ
 
+<img width="490" height="105" alt="image" src="https://github.com/user-attachments/assets/17562c8e-b528-4fee-a476-f9f994205f35" />
 
-<img width="742" height="95" alt="image" src="https://github.com/user-attachments/assets/ddf9a04b-8118-4dd7-9768-ebe08da9c63a" />
+
 ```
 ## Result:
 Thus, the Playfair substitution cipher was successfully implemented using a C program.
